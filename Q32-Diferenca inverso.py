@@ -12,4 +12,5 @@ num_invertido = unidade*100 + dezena*10 + centena
 diferenca = numero - num_invertido
 
 #Exibindo o resultado
+
 print(f"O resultado é: {diferenca}")
